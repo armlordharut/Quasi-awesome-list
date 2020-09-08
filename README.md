@@ -1,1 +1,71 @@
-# Quasi-awesome-list
+
+## Quasi Awesome Learning path
+During my experience, I've collected a list of items to learn, revisit, and implement. My humble opinion is that this list should be in some sort of enough to have background/experience in software engineering, designing of a software, and in Computer Science in general.
+Time to time, this list will grow. Will include videos to watch, articles to read, problem descriptions and their solutions (either from conferences, or from independent people). Each item from list, will have it's own summary after it's completion (of course if my time will permit to do so).
+List will be mainly constructed for .Net and JS knowledge, just because my working proficiency is highly correlated with those two. But time after time, items will pop-up that do not have any connection with them, like AI, Python, and etc. Based on my knowledge of Russian language, some items will be in that language, sorry for inconvenience.
+
+- Algorithms, Problems & Data Structures  
+    - Программирование в алгоритмах ([ISBN 5-94774-010-9](https://www.amazon.com/dp/5947740109/ref=cm_sw_r_tw_dp_x_KqGvFbQMBBP6F))
+    - Introduction to Algorithms, 3rd Edition (The MIT Press) ([ISBN-13 978-0262033848](https://www.amazon.com/dp/0262033844/ref=cm_sw_r_tw_dp_x_-rGvFbBB61V8A))
+    - Cracking the Coding Interview: 189 Programming Questions and Solutions ([ISBN-13: 978-0984782857](https://www.amazon.com/dp/0984782850/ref=cm_sw_r_tw_dp_x_FvGvFb5FYN46B))
+    - [Google Interview Questions](https://www.geeksforgeeks.org/google-interview-questions/)
+    - [Amazon Interview Questions](https://www.geeksforgeeks.org/amazon-interview-questions/)
+- Architecture & Design Patterns
+    - Design Patterns: Elements of Reusable Object-Oriented Software ([ISBN-13: 978-0201633610](https://www.amazon.com/dp/0201633612/ref=cm_sw_r_tw_dp_x_QuGvFb3B67Z38))
+    - Driven development/design
+        - Test-driven development (TDD)
+            - [Walkthrough: Test-driven development using Test Explorer](https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2019)
+            - [What is Test-Driven-Development?](https://medium.com/capgemini-microsoft-team/what-is-test-driven-development-4a14bb69463a)
+            - Test-Driven Development in Microsoft .NET (Developer Reference) ([ISBN-13:  978-0735619487](https://www.amazon.com/dp/0735619484/ref=cm_sw_r_tw_dp_x_rIGvFbR2QZ880))
+        - Domain-Driven Design (DDD)
+            - [Domain-Driven Design - What is it and how do you use it?](https://airbrake.io/blog/software-design/domain-driven-design)
+            - [Articles](https://martinfowler.com/tags/domain%20driven%20design.html) by Martin Fowler tagged under DDD
+            - [What I understand about domain-driven design](https://medium.com/code-thoughts/what-i-understand-about-domain-driven-design-f7fbd00e364f)
+            - [Best Practice - An Introduction To Domain-Driven Design](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design)
+    - Microservices
+        - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+        - [Design Patterns for Microservices](https://dzone.com/articles/design-patterns-for-microservices)
+        - [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
+        - [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
+        - [Microservices - Arcitecture Blockchain Applications as Microservices](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/september/microservices-architect-blockchain-applications-as-microservices)
+- .Net and Frameworks 
+    - CLR via C# (4th Edition) (Developer Reference) ([ISBN-13:978-0735667457](https://www.amazon.com/dp/0735667454/ref=cm_sw_r_tw_dp_x_QwGvFbHYS9CNA))  
+    - Asynchronous programming
+        - [Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
+        - [Implement a Producer-Consumer Dataflow Pattern](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-implement-a-producer-consumer-dataflow-pattern)
+        - [Task-based asynchronous programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)
+    - [Generics in .Net](https://docs.microsoft.com/en-us/dotnet/standard/generics/)
+    - Frameworks
+        - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+        - [Automapper](automapper.org)
+        - [JWT (JSON Web Tokens)](jwt.io)
+        - [MediatR](https://github.com/jbogard/MediatR)
+        - [gRPC](https://grpc.io/)
+    - Web API design
+        - [ASP.Net Web APIs](https://dotnet.microsoft.com/apps/aspnet/apis)
+        - [API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+        - [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+    - [Expression trees](https://docs.microsoft.com/en-us/dotnet/csharp/expression-trees)
+        - [Fast Deep Copy by Expression Trees (C#)](https://www.codeproject.com/Articles/1111658/Fast-Deep-Copy-by-Expression-Trees-C-Sharp)
+    - Dependancy Injection and Inversion of Control
+        - [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1)
+        - [Dependancy Injection and Inversion of Control on .Net Core](https://medium.com/@alexalvess/dependency-injection-and-inversion-of-control-on-net-core-3136fe98b72)
+    - Memory Management
+        - Pro .Net Memory Management ([ISBN-13: 978-1484240267](https://www.amazon.com/dp/148424026X/ref=cm_sw_r_tw_dp_x_fBHvFb425K1F7))
+        - [.Net Memory Management Concepts](https://www.jetbrains.com/help/dotmemory/NET_Memory_Management_Concepts.html)
+        - [Memory management and garbage collection (GC) in ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-3.1)
+    - Blazor and WASM
+        - [Run C# natively in the browser through the web assembly via mono-wasm](https://itnext.io/run-c-natively-in-the-browser-through-the-web-assembly-via-mono-wasm-60f3d55dd05a)
+        - [Compiling C# to WASM with Mono and Blazor then Debugging .Net Source with Remote Debugging in Chrome DevTools](https://www.hanselman.com/blog/CompilingCToWASMWithMonoAndBlazorThenDebuggingNETSourceWithRemoteDebuggingInChromeDevTools.aspx)
+        - [Mono WASM Example](https://github.com/0x414c49/mono-wasm-example) from 0x414c49
+        - [Cutting Edge - Never mind Javascript, Here's Blazor](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/september/cutting-edge-never-mind-javascript-here%E2%80%99s-blazor)
+- Javascript  
+    - [Web dev topics](https://web.dev/)
+    - [Web fundamentals](https://developers.google.com/web/fundamentals)
+    - [Progressive Web Apps](https://web.dev/progressive-web-apps/)
+    - [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
+        - [Basic Service Worker Sample](https://googlechrome.github.io/samples/service-worker/basic/)
+    - Multithreading inside browser ([Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/))
+    - [Promises](https://web.dev/promises/)
+    - [IndexedDb](https://developers.google.com/web/ilt/pwa/working-with-indexeddb)
+    - [ECMAScript6 and beyond](https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4)
